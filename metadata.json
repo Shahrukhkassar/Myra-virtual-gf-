@@ -1,0 +1,7 @@
+{
+  "name": "Myra AI",
+  "description": "Myra is your 3D AI companion that talks, listens, and expresses emotions using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
